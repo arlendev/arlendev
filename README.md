@@ -21,6 +21,9 @@
 
 <div align="center"><br> 
   <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+  <a href="https://github.com/arlendev" target="_blank"><img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a>
+  <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"></a>
+  <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopware/shopware-original.svg"></a>
  
 </div>
 

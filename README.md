@@ -2,6 +2,7 @@
 “Atualmente em reconversão profissional, estudante de análise e desenvolvimento de sistemas. Vários projetos realizados em nível de estudos em HTML, CSS, JavaScript, Python e MySQL.”
 
 <br>
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/icon-img/blob/main/linkedin.png"></a>
@@ -14,6 +15,7 @@
 </div>
 
 <br>
+<br>
 
 <div align="center">
   <a href="https://github.com/arlendev">
@@ -21,6 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlendev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
+<br>
 <br>
   
 <div align="center">

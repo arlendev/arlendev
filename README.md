@@ -6,11 +6,11 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/icon-img/blob/main/linkedin.png"></a>
+  <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/icon-img/blob/main/linkedin-c.png"></a>
   &emsp;
-  <a href="https://github.com/arlendev" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/icon-img/blob/main/github.png"></a>
+  <a href="https://github.com/arlendev" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/icon-img/blob/main/github-c.png"></a>
   &emsp;
-  <a href="https://www.facebook.com/arlen.possamai" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/icon-img/blob/main/facebook.png"></a>
+  <a href="https://www.facebook.com/arlen.possamai" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/icon-img/blob/main/facebook-c.png"></a>
   &emsp;
   <a href="https://arlendev.github.io/portfolio/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/icon-img/blob/main/dribbble.png"></a>
 </div>

@@ -12,7 +12,7 @@
   &emsp;
   <a href="https://www.facebook.com/arlen.possamai" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/facebook.svg"></a>
   &emsp;
-  <a href="https://arlendev.github.io/portfolio/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/dribble-c.svg"></a>
+  <a href="https://arlendev.github.io/portfolio/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/dribble.svg"></a>
 </div>
 
 <br>

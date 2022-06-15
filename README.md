@@ -7,12 +7,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/linkedinBlue.png"></a>
-  &emsp;
   <a href="https://github.com/arlendev" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/githubBlue.png"></a>
-  &emsp;
-  <a href="https://www.facebook.com/arlen.possamai" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/facebookBlue.png"></a>
-  &emsp;
   <a href="https://arlendev.github.io/portfolio/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/arlenBlue.png"></a>
+  <a href="https://www.facebook.com/arlen.possamai" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/facebookBlue.png"></a>
+
 </div>
 
 <br>

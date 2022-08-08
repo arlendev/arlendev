@@ -2,7 +2,7 @@
 
 <br>
 
-# Hi there, I'm Arlen 👋  
+# Hi there, I'm Arlen 👋    <a href="https://www.facebook.com/arlen.possamai" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/facebookBlue.png"></a>
 #### Nice to meet you.  
 I'm starting my career as an independent front-end developer.  
 I have some projects at the level of studies in HTML, CSS, JavaScript, Python, MySQL and WordPress.
@@ -41,13 +41,8 @@ English: A2 (I'm studying ✍🏻)
   &nbsp;
   <img alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   &nbsp;
-  <img alt="Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img alt="Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
   &nbsp;
-
-
-
-          
-          
 </div>
 
 <br>

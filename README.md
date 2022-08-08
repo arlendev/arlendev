@@ -1,5 +1,18 @@
-### Olá, eu me chamo Arlen 👋
-“Atualmente em reconversão profissional, estudante de análise e desenvolvimento de sistemas. Vários projetos realizados em nível de estudos em HTML, CSS, JavaScript, Python e MySQL.”
+![](https://github.com/arlendev/arlendev/blob/main/docs/images/headerGithub.png)
+
+<br>
+
+# Hi there, I'm Arlen 👋
+I'm starting my career as an independent front-end developer.
+I have some projects at the level of studies in HTML, CSS, JavaScript, Python and MySQL.
+
+👨‍🎓 In 2023 I will graduate in System Analysis and Development  
+🔭 I’m looking for Full-Time Opportunities/roles.
+
+## My language skills:  
+## My tech skills:
+
+
 
 <br>
 <br>

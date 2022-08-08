@@ -2,7 +2,7 @@
 
 <br>
 
-# Hi there, I'm Arlen 👋    <a href="https://www.facebook.com/arlen.possamai" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/facebookBlue.png"></a>
+# Hi there, I'm Arlen 👋
 #### Nice to meet you.  
 I'm starting my career as an independent front-end developer.  
 I have some projects at the level of studies in HTML, CSS, JavaScript, Python, MySQL and WordPress.

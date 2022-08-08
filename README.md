@@ -5,7 +5,7 @@
 # Hi there, I'm Arlen 👋  
 #### Nice to meet you.  
 I'm starting my career as an independent front-end developer.  
-I have some projects at the level of studies in HTML, CSS, JavaScript, Python, MySQL and WodPress.
+I have some projects at the level of studies in HTML, CSS, JavaScript, Python, MySQL and WordPress.
 
 👨‍🎓 In 2023 I will graduate in System Analysis and Development.  
 🔭 I’m looking for full-time opportunities / roles.
@@ -32,6 +32,22 @@ English: A2 (I'm studying ✍🏻)
   <img alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   &nbsp;
   <img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  &nbsp;
+  <img alt="WordPress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
+  &nbsp;
+  <img alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  &nbsp;
+  <img alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  &nbsp;
+  <img alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  &nbsp;
+  <img alt="Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  &nbsp;
+
+
+
+          
+          
 </div>
 
 <br>

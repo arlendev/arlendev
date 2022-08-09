@@ -1,8 +1,6 @@
-![](https://github.com/arlendev/arlendev/blob/main/assets/images/headerGithub.png)
+![](https://github.com/arlendev/arlendev/blob/main/assets/images/headerGithub.png)  
 
-<br>
-
-# 😄 Hi there, I'm Arlen 👋
+# 👋 Hi there, I'm Arlen 
 #### Nice to meet you.  
 I'm starting my career as an independent front-end developer.  
 I have some projects at the level of studies in HTML, CSS, JavaScript, Python, MySQL and WordPress.
@@ -11,7 +9,7 @@ I have some projects at the level of studies in HTML, CSS, JavaScript, Python, M
 🔭 I’m looking for full-time opportunities / roles.  
 
 #### Download my complete CV 
-<a href="https://github.com/arlendev/arlendev/blob/main/assets/docs/CV%20Arlen%20(PT).pdf" target="_blank"><img height="40" width="40" src="https://github.com/arlendev/arlendev/blob/main/assets/images/cv.png"></a>
+<a href="https://github.com/arlendev/arlendev/blob/main/assets/docs/CV%20Arlen%20(PT).pdf" target="_blank"><img height="30" width="30" src="https://github.com/arlendev/arlendev/blob/main/assets/images/cv.png"></a>  
 
 <br>
 
@@ -46,7 +44,7 @@ English: A2 (I'm studying ✍🏻)
   &nbsp;
   <img alt="Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
   &nbsp;
-</div>
+</div>  
 
 <br>
 
@@ -56,7 +54,7 @@ English: A2 (I'm studying ✍🏻)
   <a href="https://github.com/arlendev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arlendev&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlendev&layout=compact&langs_count=7&theme=gruvbox_light"/>
-</div>
+</div>  
   
 <br>
 

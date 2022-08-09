@@ -1,4 +1,4 @@
-![](https://github.com/arlendev/arlendev/blob/main/docs/images/headerGithub.png)
+![](https://github.com/arlendev/arlendev/blob/main/assets/images/headerGithub.png)
 
 <br>
 
@@ -60,12 +60,12 @@ English: A2 (I'm studying ✍🏻)
 ## My contacts:  
   
 <div>
-  <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/linkedinGrey.png"></a>
+  <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/assets/images/linkedinGrey.png"></a>
   &nbsp;
-  <a href="https://github.com/arlendev" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/githubGrey.png"></a>
+  <a href="https://github.com/arlendev" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/assets/images/githubGrey.png"></a>
   &nbsp;
-  <a href="https://arlendev.github.io/portfolio/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/arlenGrey.png"></a>
+  <a href="https://arlendev.github.io/portfolio/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/assets/images/arlenGrey.png"></a>
   &nbsp;
-  <a href="https://www.facebook.com/arlen.possamai" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/docs/images/facebookGrey.png"></a>
+  <a href="https://www.facebook.com/arlen.possamai" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/assets/images/facebookGrey.png"></a>
 </div>
 

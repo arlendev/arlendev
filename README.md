@@ -2,17 +2,20 @@
 
 <br>
 
-# Hi there, I'm Arlen 👋
+# 😄 Hi there, I'm Arlen 👋
 #### Nice to meet you.  
 I'm starting my career as an independent front-end developer.  
 I have some projects at the level of studies in HTML, CSS, JavaScript, Python, MySQL and WordPress.
 
 👨‍🎓 In 2023 I will graduate in System Analysis and Development.  
-🔭 I’m looking for full-time opportunities / roles.
+🔭 I’m looking for full-time opportunities / roles.  
+
+#### Download my complete CV 
+<a href="https://github.com/arlendev/arlendev/blob/main/assets/docs/CV%20Arlen%20(PT).pdf" target="_blank"><img height="40" width="40" src="https://github.com/arlendev/arlendev/blob/main/assets/images/cv.png"></a>
 
 <br>
 
-## My language skills:  
+## 🗣️ My language skills:  
 Portuguguese: native  
 Italian: B2  
 French: B1 (I'm studying ✍🏻)  
@@ -20,7 +23,7 @@ English: A2 (I'm studying ✍🏻)
 
 <br>
 
-## My tech skills:  
+## 🔧 My tech skills:  
 
 <div>
   <img alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -47,7 +50,7 @@ English: A2 (I'm studying ✍🏻)
 
 <br>
 
-## My stats:  
+## 📈 My stats:  
 
 <div>
   <a href="https://github.com/arlendev">
@@ -57,7 +60,7 @@ English: A2 (I'm studying ✍🏻)
   
 <br>
 
-## My contacts:  
+## 📬 My contacts:  
   
 <div>
   <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/assets/images/linkedinGrey.png"></a>

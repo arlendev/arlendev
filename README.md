@@ -1,5 +1,8 @@
 ![](https://github.com/arlendev/arlendev/blob/main/assets/images/headerGithub.png)  
 
+[**English**](https://github.com/arlendev/arlendev/blob/main/README.md),
+[**Français**](https://github.com/arlendev/arlendev/blob/main/README-fr.md),
+
 # 👋 Hi there, I'm Arlen 
 #### Nice to meet you.  
 I'm starting my career as an independent front-end developer.  

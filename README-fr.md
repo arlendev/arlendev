@@ -1,6 +1,6 @@
 ![](https://github.com/arlendev/arlendev/blob/main/assets/images/headerGithub.png)  
 
-<a href="https://github.com/arlendev/arlendev/blob/main/README-fr.md">**LER EM PORTUGUÊS** <img height="15" width="20" src="https://github.com/arlendev/arlendev/blob/main/assets/images/br-p.png"></a>
+<a href="https://github.com/arlendev/arlendev/blob/main/README.md">**LER EM PORTUGUÊS** <img height="15" width="20" src="https://github.com/arlendev/arlendev/blob/main/assets/images/br-p.png"></a>
   
 # 👋 Salut, je m'appelle Arlen !
 

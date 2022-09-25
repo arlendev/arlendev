@@ -1,30 +1,19 @@
 ![](https://github.com/arlendev/arlendev/blob/main/assets/images/headerGithub.png)  
 
-[**English**](https://github.com/arlendev/arlendev/blob/main/README.md),
-[**Français**](https://github.com/arlendev/arlendev/blob/main/README-fr.md),
+[**Lire en français**](https://github.com/arlendev/arlendev/blob/main/README-fr.md)
 
-# 👋 Hi there, I'm Arlen 
-#### Nice to meet you.  
-I'm starting my career as an independent front-end developer.  
-I have some projects at the level of studies in HTML, CSS, JavaScript, Python, MySQL and WordPress.
+# 👋 Olá, eu me chamo Arlen !
 
-👨‍🎓 In 2023 I will graduate in System Analysis and Development.  
-🔭 I’m looking for full-time opportunities / roles.  
+Eu estou começando a minha carreira como desenvolvedor front-end.  
+Tenho alguns projetos à nível de estudos em HTML, CSS, JavaScript, Python, MySQL e WordPress.
 
-#### Download my complete CV 
+👨‍🎓 Em julho de 2023 eu vou me graduar em Análise e Desenvolvimento de Sistemas.  
+🔭 Atualmente eu procuro por oportunidades como front-end Jr, estágio ou trabalhos freelancer. 
+
+#### Faça o downloado do meu CV completo 
 <a href="https://github.com/arlendev/arlendev/blob/main/assets/docs/CV%20Arlen%20(PT).pdf" target="_blank"><img height="30" width="30" src="https://github.com/arlendev/arlendev/blob/main/assets/images/cv.png"></a>  
 
-<br>
-
-## 🗣️ My language skills:  
-Portuguguese: native  
-Italian: B2  
-French: B1 (I'm studying ✍🏻)  
-English: A2 (I'm studying ✍🏻)  
-
-<br>
-
-## 🔧 My tech skills:  
+## 🔧 Minhas habilidades técnicas:  
 
 <div>
   <img alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -49,19 +38,21 @@ English: A2 (I'm studying ✍🏻)
   &nbsp;
 </div>  
 
-<br>
+## 🗣️ Minhas habilidades em línguas:  
+Português (BR): nativo  
+Italiano: B2  
+Francês: B1 (Estudando ✍🏻)  
+Inglês: A2 (Estudando ✍🏻)  
 
-## 📈 My stats:  
+## 📈 Minhas estatísticas:  
 
 <div>
   <a href="https://github.com/arlendev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arlendev&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlendev&layout=compact&langs_count=7&theme=gruvbox_light"/>
 </div>  
-  
-<br>
 
-## 📬 My contacts:  
+## 📬 Me contate:  
   
 <div>
   <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/assets/images/linkedinGrey.png"></a>

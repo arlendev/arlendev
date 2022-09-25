@@ -1,17 +1,19 @@
 ![](https://github.com/arlendev/arlendev/blob/main/assets/images/headerGithub.png)  
 
-[**Lire en français**](https://github.com/arlendev/arlendev/blob/main/README-fr.md)
-
+<a href="https://github.com/arlendev/arlendev/blob/main/README-fr.md">**LIRE EN FRANÇAIS** <img height="15" width="15" src="https://github.com/arlendev/arlendev/blob/main/assets/images/fr-p.png"></a>
+  
 # 👋 Olá, eu me chamo Arlen !
 
 Eu estou começando a minha carreira como desenvolvedor front-end.  
 Tenho alguns projetos à nível de estudos em HTML, CSS, JavaScript, Python, MySQL e WordPress.
 
 👨‍🎓 Em julho de 2023 eu vou me graduar em Análise e Desenvolvimento de Sistemas.  
-🔭 Atualmente eu procuro por oportunidades como front-end Jr, estágio ou trabalhos freelancer. 
+🔭 Atualmente eu procuro por oportunidades como front-end Jr, estágio ou trabalhos freelancer.  
 
-#### Faça o downloado do meu CV completo 
+#### Faça o downloado do meu CV completo  
 <a href="https://github.com/arlendev/arlendev/blob/main/assets/docs/CV%20Arlen%20(PT).pdf" target="_blank"><img height="30" width="30" src="https://github.com/arlendev/arlendev/blob/main/assets/images/cv.png"></a>  
+
+<br>
 
 ## 🔧 Minhas habilidades técnicas:  
 
@@ -38,11 +40,15 @@ Tenho alguns projetos à nível de estudos em HTML, CSS, JavaScript, Python, MyS
   &nbsp;
 </div>  
 
+<br>
+
 ## 🗣️ Minhas habilidades em línguas:  
-Português (BR): nativo  
+Português: nativo  
 Italiano: B2  
 Francês: B1 (Estudando ✍🏻)  
 Inglês: A2 (Estudando ✍🏻)  
+
+<br>
 
 ## 📈 Minhas estatísticas:  
 
@@ -51,6 +57,8 @@ Inglês: A2 (Estudando ✍🏻)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arlendev&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlendev&layout=compact&langs_count=7&theme=gruvbox_light"/>
 </div>  
+
+<br>
 
 ## 📬 Me contate:  
   

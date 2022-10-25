@@ -1,4 +1,4 @@
-![](https://github.com/arlendev/arlendev/blob/main/assets/images/open-to-work.gif)  
+<img src="https://github.com/arlendev/arlendev/blob/main/open-to-work.gif"/>
 
 <a href="https://github.com/arlendev/arlendev/blob/main/README-fr.md">**LIRE EN FRANÇAIS** <img height="15" width="20" src="https://github.com/arlendev/arlendev/blob/main/assets/images/fr-p.png"></a>
   

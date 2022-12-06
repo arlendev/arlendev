@@ -1,21 +1,20 @@
 <img src="https://github.com/arlendev/arlendev/blob/main/open-to-work.gif"/>
 
-<a href="https://github.com/arlendev/arlendev/blob/main/README-fr.md">**LIRE EN FRANÇAIS** <img height="15" width="20" src="https://github.com/arlendev/arlendev/blob/main/assets/images/fr-p.png"></a>
   
-# 👋 Olá, eu me chamo Arlen !
+# 👋 Hi, I'm Arlen !
 
-Eu estou começando a minha carreira como desenvolvedor front-end.  
-Tenho alguns projetos à nível de estudos em HTML, CSS, JavaScript, Python, MySQL e WordPress.
+I'm starting my career as a front-end developer.  
+I have some projects at the level of studies in HTML, CSS, JavaScript, Python, MySQL and WordPress.
 
-👨‍🎓 Em julho de 2023 eu vou me graduar em Análise e Desenvolvimento de Sistemas.  
-🔭 Atualmente eu procuro por oportunidades como front-end Jr, estágio ou trabalhos freelancer.  
+👨‍🎓 In July 2023 I will graduate in Systems Analysis and Development.  
+🔭 Currently I am looking for opportunities such as front-end Jr, internship or freelance jobs.  
 
-#### Faça o downloado do meu CV completo  
+#### Download my CV 
 <a href="https://github.com/arlendev/arlendev/blob/main/assets/docs/CV%20Arlen%20(PT).pdf" target="_blank"><img height="30" width="30" src="https://github.com/arlendev/arlendev/blob/main/assets/images/cv.png"></a>  
 
 <br>
 
-## 🔧 Minhas habilidades técnicas:  
+## 🔧 My technical skills: 
 
 <div>
   <img alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -42,15 +41,15 @@ Tenho alguns projetos à nível de estudos em HTML, CSS, JavaScript, Python, MyS
 
 <br>
 
-## 🗣️ Minhas habilidades em línguas:  
-Português: nativo  
-Italiano: B2  
-Francês: B1 (Estudando ✍🏻)  
-Inglês: A2 (Estudando ✍🏻)  
+## 🗣️ My language skills:
+Portuguese: mother tongue  
+Italian: Upper Intermediate (B2 - C1)  
+French: Intermediate (B1 – B2) and studying ✍🏻  
+English: Elementary (A1 – A2) and studying ✍🏻  
 
 <br>
 
-## 📈 Minhas estatísticas:  
+## 📈 My stats:
 
 <div>
   <a href="https://github.com/arlendev">
@@ -60,7 +59,7 @@ Inglês: A2 (Estudando ✍🏻)
 
 <br>
 
-## 📬 Me contate:  
+## 📬 Contact me: 
   
 <div>
   <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/assets/images/linkedinGrey.png"></a>

@@ -10,7 +10,7 @@ I have some projects at the level of studies in HTML, CSS, JavaScript, Python, M
 🔭 Currently I am looking for opportunities such as front-end Jr, internship or freelance jobs.  
 
 #### Download my CV 
-<a href="https://github.com/arlendev/arlendev/blob/main/assets/docs/CV%20Arlen%20(PT).pdf" target="_blank"><img height="30" width="30" src="https://github.com/arlendev/arlendev/blob/main/assets/images/cv.png"></a>  
+<a href="https://github.com/arlendev/arlendev/blob/main/assets/docs/CV%20Arlen%20(EN).pdf" target="_blank"><img height="30" width="30" src="https://github.com/arlendev/arlendev/blob/main/assets/images/cv.png"></a>  
 
 <br>
 

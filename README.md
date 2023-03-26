@@ -1,6 +1,3 @@
-<img src="https://github.com/arlendev/arlendev/blob/main/open-to-work.gif"/>
-
-  
 # 👋 Hi, I'm Arlen !
 
 I'm starting my career as a front-end developer.  

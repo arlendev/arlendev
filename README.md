@@ -3,7 +3,7 @@
 I'm starting my career as a front-end developer.  
 I have some projects at the level of studies in HTML, CSS, JavaScript, Python, MySQL and WordPress.
 
-👨‍🎓 In July 2023 I will graduate in Systems Analysis and Development.  
+👨‍🎓 Graduated in Systems Analysis and Development.  
 🔭 Currently I am looking for opportunities such as front-end Jr, internship or freelance jobs.  
 
 #### Download my CV 
@@ -40,9 +40,9 @@ I have some projects at the level of studies in HTML, CSS, JavaScript, Python, M
 
 ## 🗣️ My language skills:
 Portuguese: mother tongue  
-Italian: Upper Intermediate (B2 - C1)  
-French: Intermediate (B1 – B2) and studying ✍🏻  
-English: Elementary (A1 – A2) and studying ✍🏻  
+Italian: Upper Intermediate (B2)  
+French: Intermediate (B1) and studying ✍🏻  
+English: Elementary (A1) and studying ✍🏻  
 
 <br>
 

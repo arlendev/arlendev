@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Arlen !
-
 I'm starting my career as a front-end developer.  
-I have some projects at the level of studies in HTML, CSS, JavaScript, Python, MySQL and WordPress.
+I have some projects at the level of studies in HTML, CSS, Vue.js, JavaScript, Python, MySQL and WordPress.
 
-👨‍🎓 Graduated in Systems Analysis and Development.  
-🔭 Currently I am looking for opportunities such as front-end Jr, internship or freelance jobs.  
+👨‍🎓 **Postgraduate Lato Sensu in Software Engineering**
+Completed in 2023 at Faculdade Focus (400-hour program), earning me the title of Specialist.
+👨‍🎓 **Bachelor’s in Systems Analysis and Development**
+Concluded in 2023 at Faculdade Católica Paulista (2,752-hour program), recognized as BAC+3.
+🔭 **Currently Seeking**
+Front-end Jr positions, internships, or freelance roles to further develop my skills and contribute to innovative projects.
 
 <br>
 
@@ -15,6 +18,7 @@ I have some projects at the level of studies in HTML, CSS, JavaScript, Python, M
   &nbsp;
   <img alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
   <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   &nbsp;
   <img alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />

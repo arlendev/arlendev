@@ -43,8 +43,8 @@ Front-end Jr positions, internships, or freelance roles to further develop my sk
 ## 🗣️ My language skills:
 Portuguese: mother tongue  
 Italian: Upper Intermediate (B2)  
-French: Intermediate (B1) and studying ✍🏻  
-English: Elementary (A1) and studying ✍🏻  
+French: Intermediate (B2) and studying ✍🏻  
+English: Elementary (A2) and studying ✍🏻  
 
 <br>
 

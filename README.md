@@ -1,72 +1,146 @@
-# 👋 Hi, I'm Arlen !
-I'm starting my career as a front-end developer.  
-I have some projects at the level of studies in HTML, CSS, Vue.js, JavaScript, Python, MySQL and WordPress.
+# 👋 Hi, I'm Arlen Possamai
 
-👨‍🎓 **Postgraduate Lato Sensu in Software Engineering**  
-Completed in 2023 at Faculdade Focus (400-hour program), earning me the title of Specialist.  
-👨‍🎓 **Bachelor’s in Systems Analysis and Development**  
-Concluded in 2023 at Faculdade Católica Paulista (2,752-hour program), recognized as BAC+3.  
-🔭 **Currently Seeking**  
-Front-end Jr positions, internships, or freelance roles to further develop my skills and contribute to innovative projects.  
+## Software Quality Assurance | Manual Testing | API Testing
 
-<br>
+I'm building my career in **Software Quality Assurance**, focusing on manual testing, API testing and software quality.
 
-## 🔧 My technical skills: 
+I use practical projects to develop and demonstrate skills in test design, defect reporting, API validation, regression testing and QA documentation.
 
-<div>
-  <img alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  &nbsp;
-  <img alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  &nbsp;
-  <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  &nbsp;
-  <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-  &nbsp;
-  <img alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  &nbsp;
-  <img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  &nbsp;
-  <img alt="WordPress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
-  &nbsp;
-  <img alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  &nbsp;
-  <img alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  &nbsp;
-  <img alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  &nbsp;
-  <img alt="Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
-  &nbsp;
-</div>  
+---
 
-<br>
+## 🚀 Current Focus
 
-## 🗣️ My language skills:
-Portuguese: mother tongue  
-Italian: Upper Intermediate (B2)  
-French: Intermediate (B2) and studying ✍🏻  
-English: Elementary (A2) and studying ✍🏻  
+- Manual Testing
+- Exploratory Testing
+- Regression Testing
+- API Testing
+- Test Case Design
+- Bug Reporting
+- Test Documentation
+- Software Quality
+- ISTQB CTFL Preparation
 
-<br>
+---
 
-## 📈 My stats:
+## 🧪 Featured Projects
 
-<div>
-  <a href="https://github.com/arlendev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arlendev&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlendev&layout=compact&langs_count=7&theme=gruvbox_light"/>
-</div>  
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<br>
+### 🌐 QAce.dev
 
-## 📬 Contact me: 
-  
-<div>
-  <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/assets/images/linkedinGrey.png"></a>
-  &nbsp;
-  <a href="https://github.com/arlendev" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/assets/images/githubGrey.png"></a>
-  &nbsp;
-  <a href="https://arlendev.github.io/portfolio/" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/assets/images/arlenGrey.png"></a>
-  &nbsp;
-  <a href="https://www.facebook.com/arlen.possamai" target="_blank"><img height="50" width="50" src="https://github.com/arlendev/arlendev/blob/main/assets/images/facebookGrey.png"></a>
-</div>
+A practical QA portfolio designed to demonstrate Software Quality Assurance activities.
 
+**Project content:**
+
+- Functional test cases
+- API testing
+- Bug reports
+- Test evidence
+- Regression testing
+- Test documentation
+- QA best practices
+
+<a href="https://qace.dev" target="_blank">
+  Visit QAce.dev
+</a>
+
+  </td>
+
+  <td width="50%" valign="top">
+
+### 🐞 QAce Bug Lab
+
+A web application intentionally developed with realistic defects for Software Quality Assurance practice.
+
+**Testing activities:**
+
+- Functional testing
+- Exploratory testing
+- UI testing
+- Validation testing
+- Regression testing
+- Bug reporting
+- Test documentation
+- Evidence collection
+
+  </td>
+  </tr>
+</table>
+
+The QAce ecosystem evolves continuously as I improve my QA skills and apply industry best practices.
+
+---
+
+## 🛠 Technical Skills
+
+### Quality Assurance
+
+- Manual Testing
+- Exploratory Testing
+- Regression Testing
+- Test Case Design
+- Bug Reporting
+- API Testing
+- Postman
+- Swagger
+- Git
+- GitHub
+
+### Supporting Technical Skills
+
+- HTML
+- CSS
+- JavaScript
+- Vue.js
+- Python
+- MySQL
+
+---
+
+## 🎓 Education
+
+🎓 **Postgraduate Degree in Software Engineering**
+
+🎓 **Bachelor's Degree in Systems Analysis and Development**
+
+---
+
+## 🌍 Languages
+
+- 🇧🇷 Portuguese — Native
+- 🇮🇹 Italian — B2
+- 🇫🇷 French — B1/B2
+- 🇬🇧 English — A2, currently improving
+
+---
+
+## 📚 Currently Learning
+
+- Software Quality Assurance
+- API Testing
+- SQL
+- Test Automation
+- ISTQB CTFL
+- Modern QA Practices
+
+---
+
+## 🤝 Looking For
+
+I'm looking for opportunities as a **Junior QA / Software Tester**, where I can contribute, continue learning and help deliver high-quality software.
+
+---
+
+## 📫 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank">
+    <img src="./assets/images/linkedin.png" height="50"/>
+  </a>
+
+  <a href="https://qace.dev" target="_blank">
+    <img src="./assets/images/qace.png" height="50"/>
+  </a>
+</p>
